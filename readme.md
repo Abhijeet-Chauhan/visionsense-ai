@@ -8,6 +8,7 @@ Hey there! Welcome to VisionSense AI - your smart companion for understanding wh
 - [Complete Setup Guide](#-complete-setup-guide)
 - [Usage Guide](#-usage-guide)
 - [Troubleshooting](#-troubleshooting)
+- [Results](#-results)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -169,6 +170,12 @@ device = 'cpu'  # Force CPU usage
 - Close other applications
 - Restart your computer
 
+## 📤 Results
+![uploading-image](image.png)
+![Detecting-objects](image-1.png)
+![image-understanding](image-2.png)
+![text-recognition](image-3.png)
+![listen-text](image-4.png)
 ## 🤝 Contributing
 
 I love help! Here's how:
