@@ -56,7 +56,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Google Gemini setup
-gemini_api_key = os.getenv("GEMINI_API_KEY")
+gemini_api_key = "AIzaSyD_uJb7jzwpFBSvXUWwSjCMdeQ1JW2wiPM"
 scene_model = GoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=gemini_api_key)
 
 # Load the YOLOv5 model
