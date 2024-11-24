@@ -1,5 +1,4 @@
-import os
-from dotenv import load_dotenv
+
 import streamlit as st
 import torch
 from PIL import Image
@@ -9,8 +8,6 @@ from gtts import gTTS
 import io
 import time
 from langchain_google_genai import GoogleGenerativeAI
-
-load_dotenv()
 
 st.set_page_config(
     page_title="VisionSense AI",
